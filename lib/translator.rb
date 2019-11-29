@@ -14,5 +14,7 @@ def get_japanese_emoticon
 end
 
 def get_english_meaning
-  emoticon={"Ｔ ▽ Ｔ")
+  emoticon={"Ｔ ▽ Ｔ"=> {}}
+  emoticon #=> {"get_emoticon"=>{}}
+  
 end
